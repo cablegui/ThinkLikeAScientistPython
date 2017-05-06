@@ -1,0 +1,4 @@
+myfile.write("Hello there")
+
+Daisy and Poppy
+Hello there
